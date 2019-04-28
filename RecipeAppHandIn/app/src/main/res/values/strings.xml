@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Food2Fork</string>
+    <string name="action_sign_in_short">Register</string>
+    <string name="email">Email</string>
+    <string name="auth_failed">Invalid Email or Password, please try again!</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_link_to_register">First time? Register here!</string>
+    <string name="btn_link_to_login">Login here!</string>
+</resources>

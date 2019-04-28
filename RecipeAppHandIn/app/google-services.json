@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "868538509253",
+    "firebase_url": "https://recipeapp-79644.firebaseio.com",
+    "project_id": "recipeapp-79644",
+    "storage_bucket": "recipeapp-79644.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868538509253:android:4dca63b8efdd0047",
+        "android_client_info": {
+          "package_name": "com.example.RecipeApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868538509253-g5p4ckkf8sniiqt1jgajg4rk7q3c0s4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfgf2g9SuJcrUngMBHvBRULEYFmO1qOkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868538509253-g5p4ckkf8sniiqt1jgajg4rk7q3c0s4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868538509253:android:224d8152642cde27",
+        "android_client_info": {
+          "package_name": "com.example.recipeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868538509253-t47kafhfojdi7kkdiivsss112algj692.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.recipeapp",
+            "certificate_hash": "b1aefe07e04d97f70d41f29a52b3947ac62cf5db"
+          }
+        },
+        {
+          "client_id": "868538509253-g5p4ckkf8sniiqt1jgajg4rk7q3c0s4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfgf2g9SuJcrUngMBHvBRULEYFmO1qOkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868538509253-g5p4ckkf8sniiqt1jgajg4rk7q3c0s4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
